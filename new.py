@@ -6,4 +6,4 @@ print("Now lets push you to github")
 
 print("And lets Clone you and see if you work")
 
-print("Now I know how to clone from GitHub using Git)
+print("Now I know how to clone from GitHub using Git")
